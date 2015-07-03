@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="lib/json_simple-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/serialized-php-parser-0.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jaxrpc-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
